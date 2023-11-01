@@ -1,0 +1,11 @@
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\bin\Debug\Eratoshenovo_sito.exe.config
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\bin\Debug\Eratoshenovo_sito.exe
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\bin\Debug\Eratoshenovo_sito.pdb
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.csproj.AssemblyReference.cache
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.csproj.SuggestedBindingRedirects.cache
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.Form1.resources
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.Properties.Resources.resources
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.csproj.GenerateResource.cache
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.csproj.CoreCompileInputs.cache
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.exe
+D:\Tonda škola\PRG\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.pdb
